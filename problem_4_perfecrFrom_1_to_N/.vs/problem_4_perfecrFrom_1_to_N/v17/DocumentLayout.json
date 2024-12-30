@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_4_perfecrFrom_1_to_N\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83459E43-8F9B-4870-8C3E-21C0E1062FCF}|problem_4_perfecrFrom_1_to_N.vcxproj|D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_4_perfecrFrom_1_to_N\\problem_4_perfecrFrom_1_to_N.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83459E43-8F9B-4870-8C3E-21C0E1062FCF}|problem_4_perfecrFrom_1_to_N.vcxproj|solutionrelative:problem_4_perfecrFrom_1_to_N.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem_4_perfecrFrom_1_to_N.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_4_perfecrFrom_1_to_N\\problem_4_perfecrFrom_1_to_N.cpp",
+              "RelativeDocumentMoniker": "problem_4_perfecrFrom_1_to_N.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_4_perfecrFrom_1_to_N\\problem_4_perfecrFrom_1_to_N.cpp",
+              "RelativeToolTip": "problem_4_perfecrFrom_1_to_N.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T10:32:09.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

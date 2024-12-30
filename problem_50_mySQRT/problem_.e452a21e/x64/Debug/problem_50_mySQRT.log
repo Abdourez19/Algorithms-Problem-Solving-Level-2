@@ -1,0 +1,3 @@
+﻿  problem_50_mySQRT.cpp
+D:\Abou hadhoud PROGRAMMING\Level_2\Algorithms\problem_50_mySQRT\problem_50_mySQRT.cpp(17,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  problem_50_mySQRT.vcxproj -> D:\Abou hadhoud PROGRAMMING\Level_2\Algorithms\problem_50_mySQRT\x64\Debug\problem_50_mySQRT.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_39_copyPrimeNumbersInNewArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD629447-9642-4607-90C2-00ABBEADEF92}|problem_39_copyPrimeNumbersInNewArray.vcxproj|D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_39_copyPrimeNumbersInNewArray\\problem_39_copyPrimeNumbersInNewArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD629447-9642-4607-90C2-00ABBEADEF92}|problem_39_copyPrimeNumbersInNewArray.vcxproj|solutionrelative:problem_39_copyPrimeNumbersInNewArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem_39_copyPrimeNumbersInNewArray.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_39_copyPrimeNumbersInNewArray\\problem_39_copyPrimeNumbersInNewArray.cpp",
+              "RelativeDocumentMoniker": "problem_39_copyPrimeNumbersInNewArray.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_39_copyPrimeNumbersInNewArray\\problem_39_copyPrimeNumbersInNewArray.cpp",
+              "RelativeToolTip": "problem_39_copyPrimeNumbersInNewArray.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T18:35:18.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

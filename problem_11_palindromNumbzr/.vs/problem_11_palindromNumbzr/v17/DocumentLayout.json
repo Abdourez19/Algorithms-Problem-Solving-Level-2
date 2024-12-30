@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\05 - Algorithms \u0026 Problem Solving Level 2\\problem_11_palindromNumbzr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27302894-999B-47B8-83A9-777AA54903C2}|problem_11_palindromNumbzr.vcxproj|D:\\Abou hadhoud PROGRAMMING\\05 - Algorithms \u0026 Problem Solving Level 2\\problem_11_palindromNumbzr\\problem_11_palindromNumbzr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27302894-999B-47B8-83A9-777AA54903C2}|problem_11_palindromNumbzr.vcxproj|solutionrelative:problem_11_palindromNumbzr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem_11_palindromNumbzr.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\05 - Algorithms \u0026 Problem Solving Level 2\\problem_11_palindromNumbzr\\problem_11_palindromNumbzr.cpp",
+              "RelativeDocumentMoniker": "problem_11_palindromNumbzr.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\05 - Algorithms \u0026 Problem Solving Level 2\\problem_11_palindromNumbzr\\problem_11_palindromNumbzr.cpp",
+              "RelativeToolTip": "problem_11_palindromNumbzr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T08:48:59.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_27_AverageOfArrayElements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B68CEDA-3EE6-4459-AC6C-FDB038E4A311}|problem_27_AverageOfArrayElements.vcxproj|D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_27_AverageOfArrayElements\\problem_27_AverageOfArrayElements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B68CEDA-3EE6-4459-AC6C-FDB038E4A311}|problem_27_AverageOfArrayElements.vcxproj|solutionrelative:problem_27_AverageOfArrayElements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem_27_AverageOfArrayElements.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_27_AverageOfArrayElements\\problem_27_AverageOfArrayElements.cpp",
+              "RelativeDocumentMoniker": "problem_27_AverageOfArrayElements.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_27_AverageOfArrayElements\\problem_27_AverageOfArrayElements.cpp",
+              "RelativeToolTip": "problem_27_AverageOfArrayElements.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T06:38:50.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

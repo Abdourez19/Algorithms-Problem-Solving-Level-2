@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_38_copyOddNumbersInNewArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A83BCE-90E7-443C-A839-2AB638E57A3B}|problem_38_copyOddNumbersInNewArray.vcxproj|D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_38_copyOddNumbersInNewArray\\problem_38_copyOddNumbersInNewArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5A83BCE-90E7-443C-A839-2AB638E57A3B}|problem_38_copyOddNumbersInNewArray.vcxproj|solutionrelative:problem_38_copyOddNumbersInNewArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem_38_copyOddNumbersInNewArray.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_38_copyOddNumbersInNewArray\\problem_38_copyOddNumbersInNewArray.cpp",
+              "RelativeDocumentMoniker": "problem_38_copyOddNumbersInNewArray.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_38_copyOddNumbersInNewArray\\problem_38_copyOddNumbersInNewArray.cpp*",
+              "RelativeToolTip": "problem_38_copyOddNumbersInNewArray.cpp*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T18:11:17.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

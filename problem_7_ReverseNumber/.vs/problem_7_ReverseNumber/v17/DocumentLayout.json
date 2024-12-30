@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\02 - Level_2\\Algorithms\\problem_7_ReverseNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E0F02-CAA1-4E76-BE63-B40E57C59C61}|problem_7_ReverseNumber.vcxproj|D:\\Abou hadhoud PROGRAMMING\\02 - Level_2\\Algorithms\\problem_7_ReverseNumber\\problem_7_ReverseNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D8E0F02-CAA1-4E76-BE63-B40E57C59C61}|problem_7_ReverseNumber.vcxproj|solutionrelative:problem_7_ReverseNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem_7_ReverseNumber.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\02 - Level_2\\Algorithms\\problem_7_ReverseNumber\\problem_7_ReverseNumber.cpp",
+              "RelativeDocumentMoniker": "problem_7_ReverseNumber.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\02 - Level_2\\Algorithms\\problem_7_ReverseNumber\\problem_7_ReverseNumber.cpp",
+              "RelativeToolTip": "problem_7_ReverseNumber.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T13:00:57.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

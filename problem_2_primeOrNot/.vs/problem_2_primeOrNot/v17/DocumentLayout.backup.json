@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_2_primeOrNot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA38ED3-B7E2-42E7-A15B-65A794181ED5}|problem_2_primeOrNot.vcxproj|D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_2_primeOrNot\\problem_2_primeOrNot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFA38ED3-B7E2-42E7-A15B-65A794181ED5}|problem_2_primeOrNot.vcxproj|solutionrelative:problem_2_primeOrNot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem_2_primeOrNot.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_2_primeOrNot\\problem_2_primeOrNot.cpp",
+              "RelativeDocumentMoniker": "problem_2_primeOrNot.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_2_primeOrNot\\problem_2_primeOrNot.cpp",
+              "RelativeToolTip": "problem_2_primeOrNot.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T22:02:54.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

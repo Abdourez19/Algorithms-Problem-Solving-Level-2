@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_30_sumOfTwoArraysInThirdOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C230ABF1-7A05-42DE-B10A-601F8D3D6D1E}|problem_30_sumOfTwoArraysInThirdOne.vcxproj|D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_30_sumOfTwoArraysInThirdOne\\problem_30_sumOfTwoArraysInThirdOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C230ABF1-7A05-42DE-B10A-601F8D3D6D1E}|problem_30_sumOfTwoArraysInThirdOne.vcxproj|solutionrelative:problem_30_sumOfTwoArraysInThirdOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem_30_sumOfTwoArraysInThirdOne.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_30_sumOfTwoArraysInThirdOne\\problem_30_sumOfTwoArraysInThirdOne.cpp",
+              "RelativeDocumentMoniker": "problem_30_sumOfTwoArraysInThirdOne.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_30_sumOfTwoArraysInThirdOne\\problem_30_sumOfTwoArraysInThirdOne.cpp",
+              "RelativeToolTip": "problem_30_sumOfTwoArraysInThirdOne.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T09:12:38.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

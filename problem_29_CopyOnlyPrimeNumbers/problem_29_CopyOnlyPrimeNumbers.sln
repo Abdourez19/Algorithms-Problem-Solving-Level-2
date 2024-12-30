@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "problem_29_CopyOnlyPrimeNumbers", "problem_29_CopyOnlyPrimeNumbers.vcxproj", "{CCC01403-D00F-4974-93A9-FF4222212896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC01403-D00F-4974-93A9-FF4222212896}.Debug|x64.ActiveCfg = Debug|x64
+		{CCC01403-D00F-4974-93A9-FF4222212896}.Debug|x64.Build.0 = Debug|x64
+		{CCC01403-D00F-4974-93A9-FF4222212896}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCC01403-D00F-4974-93A9-FF4222212896}.Debug|x86.Build.0 = Debug|Win32
+		{CCC01403-D00F-4974-93A9-FF4222212896}.Release|x64.ActiveCfg = Release|x64
+		{CCC01403-D00F-4974-93A9-FF4222212896}.Release|x64.Build.0 = Release|x64
+		{CCC01403-D00F-4974-93A9-FF4222212896}.Release|x86.ActiveCfg = Release|Win32
+		{CCC01403-D00F-4974-93A9-FF4222212896}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA99D00-C7E1-4118-A209-B384EFB21640}
+	EndGlobalSection
+EndGlobal

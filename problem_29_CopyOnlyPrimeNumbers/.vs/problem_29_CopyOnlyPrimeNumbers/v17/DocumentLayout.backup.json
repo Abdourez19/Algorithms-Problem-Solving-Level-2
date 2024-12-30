@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_29_CopyOnlyPrimeNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC01403-D00F-4974-93A9-FF4222212896}|problem_29_CopyOnlyPrimeNumbers.vcxproj|D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_29_CopyOnlyPrimeNumbers\\problem_29_CopyOnlyPrimeNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCC01403-D00F-4974-93A9-FF4222212896}|problem_29_CopyOnlyPrimeNumbers.vcxproj|solutionrelative:problem_29_CopyOnlyPrimeNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem_29_CopyOnlyPrimeNumbers.cpp",
+              "DocumentMoniker": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_29_CopyOnlyPrimeNumbers\\problem_29_CopyOnlyPrimeNumbers.cpp",
+              "RelativeDocumentMoniker": "problem_29_CopyOnlyPrimeNumbers.cpp",
+              "ToolTip": "D:\\Abou hadhoud PROGRAMMING\\Level_2\\Algorithms\\problem_29_CopyOnlyPrimeNumbers\\problem_29_CopyOnlyPrimeNumbers.cpp",
+              "RelativeToolTip": "problem_29_CopyOnlyPrimeNumbers.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T07:50:37.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
